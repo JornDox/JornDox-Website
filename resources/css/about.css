@@ -149,7 +149,7 @@ html {
 .wrapper {
     position: relative;
     display: grid;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     min-height: 100vh;
     z-index: 100;
