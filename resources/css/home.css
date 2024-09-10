@@ -131,7 +131,7 @@
     color: #f0f8ff;
     text-align: right;
     visibility: hidden;
-    border-radius: 500px;
+    border-radius: 400px;
     z-index: -1;
     text-transform: capitalize;
     transition: 0.5s cubic-bezier(0.22, 1, 0.36, 1);
