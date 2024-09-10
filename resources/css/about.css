@@ -170,13 +170,13 @@ html {
 }
 
 .face.face1 h1 {
-    font-family: "Kaushan Script", cursive;
+    font-family: "Kaushan Script";
     font-size: 4.5vw;
 }
 
 .face.face1 p {
-    font-family: "League Script", cursive;
-    font-size: 26px;
+    font-family: "League Script";
+    font-size: 28px;
     font-weight: bold;
 }
 
