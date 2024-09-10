@@ -147,10 +147,10 @@ html {
 }
 
 .wrapper {
-    position: relative;
+    position: static;
     display: block;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
     min-height: 100vh;
     z-index: 100;
     color: white;
