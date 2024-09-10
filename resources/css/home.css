@@ -122,7 +122,7 @@
 
 .side-nav button .tooltip {
     position: absolute;
-    font-size: 3em;
+    font-size: 2em;
     left: 100%;
     top: 50%;
     transform: translate(-100%, -50%);
@@ -131,7 +131,7 @@
     color: #f0f8ff;
     text-align: right;
     visibility: hidden;
-    border-radius: 400px;
+    border-radius: 300px;
     z-index: -1;
     text-transform: capitalize;
     transition: 0.5s cubic-bezier(0.22, 1, 0.36, 1);
