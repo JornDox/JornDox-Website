@@ -148,7 +148,7 @@ html {
 
 .wrapper {
     position: relative;
-    display: flex;
+    display: grid;
     justify-content: space-between;
     align-items: center;
     min-height: 100vh;
