@@ -277,10 +277,6 @@ html {
     margin-left: calc(var(--width) * -2);
 }
 
-.about_container.four {
-    margin-left: calc(var(--width) * -3);
-}
-
 .skills {
     width: 100%;
     height: 100%;
