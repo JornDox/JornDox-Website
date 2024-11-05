@@ -258,9 +258,9 @@ html {
 .about_container {
     position: relative;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     min-height: 50vh;
-    width: calc(var(--width) * 3);
+    width: calc(var(--width) * 4);
     margin-left: 0;
     transition: 1s cubic-bezier(0.68, -0.55, 0.265, 1.55);
 }
@@ -275,6 +275,10 @@ html {
 
 .about_container.three {
     margin-left: calc(var(--width) * -2);
+}
+
+.about_container.four {
+    margin-left: calc(var(--width) * -3);
 }
 
 .skills {
